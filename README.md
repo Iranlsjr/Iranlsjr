@@ -38,3 +38,9 @@ Embora esteja no começo dessa jornada, já estou aplicando o que estou aprenden
 Para qualquer feedback é super bem-vindo! Se você tem dicas, sugestões ou quer trocar experiências, fico feliz em aprender com você 🤝.
 
 Você pode me encontrar nas redes sociais ou enviar um e-mail para **iran.lourenco.jr@gmail.com** 📩.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
