@@ -8,7 +8,7 @@ Atualmente, estou focado no **desenvolvimento web**, mas continuo aprendendo sob
 
 ## Tecnologias que estou Aprendendo
 
-- **Front-End**: HTML5, CSS3, JavaScript 🖥️
+- **Front-End**: HTML5, CSS3, Bootstrap JavaScript 🖥️
 - **Back-End**:  PHP e Python 🐍
 - **Banco de Dados**: SQL 📂
 - **Versionamento de Código**: Git, GitHub 🌱
