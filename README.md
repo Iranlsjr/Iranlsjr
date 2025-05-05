@@ -8,7 +8,7 @@ Atualmente, estou focado no **desenvolvimento web**, mas continuo aprendendo sob
 
 ## Tecnologias que estou Aprendendo
 
-- **Front-End**: HTML5, CSS3, Bootstrap JavaScript 🖥️
+- **Front-End**: HTML5, CSS3, Bootstrap JavaScript, Angular 🖥️
 - **Back-End**:  PHP e Python 🐍
 - **Banco de Dados**: SQL 📂
 - **Versionamento de Código**: Git, GitHub 🌱
@@ -30,7 +30,7 @@ Aqui estão algumas estatísticas e informações sobre minha atividade no GitHu
 
 Embora esteja no começo dessa jornada, já estou aplicando o que estou aprendendo em alguns projetos pessoais. Aqui estão alguns dos meus primeiros passos:
 
-- **[Meu Site Pessoal](https://iranilsj.github.io/meu-site/)**: O primeiro projeto em que estou trabalhando para apresentar minhas habilidades e projetos em andamento 🔧.
+- **[Meu Site Pessoal](https://iranlsjr.github.io/portfolio/)**: O primeiro projeto em que estou trabalhando para apresentar minhas habilidades e projetos em andamento 🔧.
 
 
 ## Como Contribuir e Contatar
