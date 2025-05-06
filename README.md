@@ -1,33 +1,35 @@
 # Olá! Me chamo Iran Lourenço 👨‍💻
+## Developer | MySQL | HTML 5 | CSS | Bootstrap | Angular | JavaScript | PHP | Python | 
 
-Estou começando minha jornada na área de tecnologia 🚀. Com um forte interesse por desenvolvimento de software, estou dedicando meus estudos e projetos pessoais para aprender as habilidades necessárias para atuar no campo da tecnologia, especialmente no desenvolvimento web 🌐.
+Estou começando minha jornada na área de tecnologia. Com um forte interesse por desenvolvimento de software, estou dedicando meus estudos e projetos pessoais para aprender as habilidades necessárias para atuar no campo da tecnologia, especialmente no desenvolvimento web.
 
-Antes de me aventurar na tecnologia, minha formação foi em **Arquitetura e Urbanismo** 🏛️. No entanto, sempre tive uma curiosidade natural por computadores e sistemas 💻, e foi essa paixão que me motivou a iniciar uma transição para o mundo da tecnologia.
+Antes de me aventurar na tecnologia, minha formação foi em **Arquitetura e Urbanismo**. No entanto, sempre tive uma curiosidade natural por computadores e sistemas, e foi essa paixão que me motivou a iniciar uma transição para o mundo da tecnologia.
 
-Atualmente, estou focado no **desenvolvimento web**, mas continuo aprendendo sobre diferentes aspectos da tecnologia, como **programação** e **banco de dados** 📊.
+Atualmente, estou focado no **desenvolvimento web**, mas continuo aprendendo sobre diferentes aspectos da tecnologia, como **programação** e **banco de dados**.
 
 ## Tecnologias que estou Aprendendo
 
 - **Front-End**: HTML5, CSS3, Bootstrap JavaScript, Angular 🖥️
 - **Back-End**:  PHP e Python 🐍
-- **Banco de Dados**: SQL 📂
+- **Banco de Dados**: MySQL 📂
 - **Versionamento de Código**: Git, GitHub 🌱
 - **Outros Conceitos**: Responsividade, Design e usabilidade de sites (UI/UX) 🎨
-
-  ##  Linguagens Mais Usadas   🔗
-Aqui estão algumas das linguagens mais utilizadas até o momento.
- 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iranlsjr&langs_count=6&theme=radical)
-
-##  Estatisticas no GitHub  📊
-
-Aqui estão algumas estatísticas e informações sobre minha atividade no GitHub:
-
-![Iran Lourenço's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iranlsjr&show_icons=true&count_private=true&hide_title=true&theme=radical)
-
+<table>
+  <tr>
+    <td>
+      <h2>📌 Linguagens Mais Usadas</h2>
+      <p>Aqui estão algumas das linguagens mais utilizadas até o momento.</p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iranlsjr&langs_count=6&theme=radical" />
+    </td>
+    <td>
+      <h2>📊 Estatísticas no GitHub</h2>
+      <p>Aqui estão algumas estatísticas e informações sobre minha atividade no GitHub:</p>
+      <img src="https://github-readme-stats.vercel.app/api?username=Iranlsjr&show_icons=true&count_private=true&hide_title=true&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 ## Projetos Iniciais
-
 Embora esteja no começo dessa jornada, já estou aplicando o que estou aprendendo em alguns projetos pessoais. Aqui estão alguns dos meus primeiros passos:
 
 - **[Meu Site Pessoal](https://iranlsjr.github.io/portfolio/)**: O primeiro projeto em que estou trabalhando para apresentar minhas habilidades e projetos em andamento 🔧.
