@@ -3,7 +3,7 @@
 
 Estou começando minha jornada na área de tecnologia. Com um forte interesse por desenvolvimento de software, estou dedicando meus estudos e projetos pessoais para aprender as habilidades necessárias para atuar no campo da tecnologia, especialmente no desenvolvimento web.
 
-Antes de me aventurar na tecnologia, minha formação foi em **Arquitetura e Urbanismo**. No entanto, sempre tive uma curiosidade natural por computadores e sistemas, e foi essa paixão que me motivou a iniciar uma transição para o mundo da tecnologia.
+Antes de me entrar na tecnologia, minha formação foi em **Arquitetura e Urbanismo**. No entanto, sempre tive uma curiosidade natural por computadores e sistemas, e foi essa paixão que me motivou a iniciar uma transição para o mundo da tecnologia.
 
 Atualmente, estou focado no **desenvolvimento web**, mas continuo aprendendo sobre diferentes aspectos da tecnologia, como **programação** e **banco de dados**.
 
