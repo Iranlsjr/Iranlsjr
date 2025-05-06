@@ -1,7 +1,7 @@
 # Olá! Me chamo Iran Lourenço 👨‍💻
 ## Developer | MySQL | HTML 5 | CSS | Bootstrap | Angular | JavaScript | PHP | Python | 
 
-Estou começando minha jornada na área de tecnologia. Com um forte interesse por desenvolvimento de software, estou dedicando meus estudos e projetos pessoais para aprender as habilidades necessárias para atuar no campo da tecnologia, especialmente no desenvolvimento web.
+Estou começando minha jornada na área de tecnologia. Com um forte interesse por desenvolvimento de software, estou dedicando meus estudos e projetos pessoais para aprender as habilidades necessárias para atuar no campo da tecnologia.
 
 Antes de me entrar na tecnologia, minha formação foi em **Arquitetura e Urbanismo**. No entanto, sempre tive uma curiosidade natural por computadores e sistemas, e foi essa paixão que me motivou a iniciar uma transição para o mundo da tecnologia.
 
