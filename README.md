@@ -32,12 +32,12 @@ Atualmente, estou focado no **desenvolvimento web**, mas continuo aprendendo sob
 ## Projetos Iniciais
 Embora esteja no começo dessa jornada, já estou aplicando o que estou aprendendo em alguns projetos pessoais. Aqui estão alguns dos meus primeiros passos:
 
-- **[Meu Site Pessoal](https://iranlsjr.github.io/portfolio/)**: O primeiro projeto em que estou trabalhando para apresentar minhas habilidades e projetos em andamento 🔧.
+- **[Meu Site Pessoal](https://iranlsjr.github.io/portfolio/)**: O primeiro projeto em que estou trabalhando para apresentar minhas habilidades e projetos em andamento.
 
 
 ## Como Contribuir e Contatar
 
-Para qualquer feedback é super bem-vindo! Se você tem dicas, sugestões ou quer trocar experiências, fico feliz em aprender com você 🤝.
+Para qualquer feedback é super bem-vindo! Se você tem dicas, sugestões ou quer trocar experiências, fico feliz em aprender com você.
 
 Você pode me encontrar nas redes sociais ou enviar um e-mail para **iran.lourenco.jr@gmail.com** 📩.
 
