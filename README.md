@@ -1,6 +1,6 @@
 # Olá! Me chamo Iran Lourenço 👨‍💻
 <p align="center">
-  <img src="http://some_place.com/image.png" />
+  <h2> Olá! Me chamo Iran Lourenço 👨‍💻</h2>
 </p>
 ## Developer | MySQL | HTML 5 | CSS | Bootstrap | Angular | JavaScript | PHP | Python
 
