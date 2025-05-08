@@ -1,7 +1,5 @@
-# Olá! Me chamo Iran Lourenço 👨‍💻
-<p align="center">
-  <h2> Olá! Me chamo Iran Lourenço 👨‍💻</h2>
-</p>
+<h1  align="center">Olá! Me chamo Iran Lourenço 👨‍💻</h1>
+
 ## Developer | MySQL | HTML 5 | CSS | Bootstrap | Angular | JavaScript | PHP | Python
 
 Estou começando minha jornada na área de tecnologia. Com um forte interesse por desenvolvimento de software, estou dedicando meus estudos e projetos pessoais para aprender as habilidades necessárias para atuar no campo da tecnologia.
