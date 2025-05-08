@@ -16,6 +16,7 @@ Atualmente, estou focado no **desenvolvimento web**, mas continuo aprendendo sob
 - **Versionamento de Código**: Git, GitHub 🌱
 - **Outros Conceitos**: Responsividade, Design e usabilidade de sites (UI/UX) 🎨
 
+## Linguagens Mais Usadas e Estatísticas no GitHub
 <p align="center"><img  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iranlsjr&layout=compact&theme=radical" /> <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Iranlsjr&show_icons=true&theme=radical" /></p>
 
 
