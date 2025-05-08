@@ -1,7 +1,7 @@
 # Olá! Me chamo Iran Lourenço 👨‍💻
-
-<center><h1>oi</h1></center>
-
+<p align="center">
+  <img src="http://some_place.com/image.png" />
+</p>
 ## Developer | MySQL | HTML 5 | CSS | Bootstrap | Angular | JavaScript | PHP | Python
 
 Estou começando minha jornada na área de tecnologia. Com um forte interesse por desenvolvimento de software, estou dedicando meus estudos e projetos pessoais para aprender as habilidades necessárias para atuar no campo da tecnologia.
