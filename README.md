@@ -4,7 +4,9 @@
 
 Sou profissional em transição para a área de tecnologia, com formação em Arquitetura e Urbanismo e experiência anterior em Engenharia de Avaliações, onde atuei com métodos estatísticos e análise de dados no setor imobiliário.
 
-Atualmente, estou focado no desenvolvimento web, com experiência em HTML, CSS, JavaScript, PHP, Python, Angular e MySQL. Atuei como estagiário no desenvolvimento e manutenção de sistemas, contribuindo para a otimização de aplicações web e bancos de dados. 
+Atualmente, estou focado no desenvolvimento web, com experiência em HTML, CSS, JavaScript, PHP, Python, Angular e MySQL. 
+
+Atuei como estagiário no desenvolvimento e manutenção de sistemas, contribuindo para a otimização de aplicações web e bancos de dados. 
 
 Possuo conhecimentos em consumo de APIs REST, manipulação de arquivos JSON, lógica de programação, controle de versionamento com Git e nível intermediário em Excel. Estou em constante aprendizado, dedicando-me a projetos pessoais e estudos para fortalecer minhas habilidades em tecnologia.
 
