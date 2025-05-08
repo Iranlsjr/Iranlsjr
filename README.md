@@ -8,7 +8,7 @@ Antes de me entrar na tecnologia, minha formação foi em **Arquitetura e Urbani
 
 Atualmente, estou focado no **desenvolvimento web**, mas continuo aprendendo sobre diferentes aspectos da tecnologia, como **programação** e **banco de dados**.
 
-## Tecnologias que estou Aprendendo
+## My Stack
 
 - **Front-End**: HTML5, CSS3, Bootstrap JavaScript, Angular 🖥️
 - **Back-End**:  PHP e Python 🐍
