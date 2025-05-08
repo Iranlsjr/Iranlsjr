@@ -10,7 +10,7 @@ Atuei como estagiário no desenvolvimento e manutenção de sistemas, contribuin
 
 Possuo conhecimentos em consumo de APIs REST, manipulação de arquivos JSON, lógica de programação, controle de versionamento com Git e nível intermediário em Excel. Estou em constante aprendizado, dedicando-me a projetos pessoais e estudos para fortalecer minhas habilidades em tecnologia.
 
-## My Stack
+<h2  align="center">My Stack</h2>
 
 - **Front-End**: HTML5, CSS3, Bootstrap JavaScript, Angular 🖥️
 - **Back-End**:  PHP e Python 🐍
@@ -18,17 +18,17 @@ Possuo conhecimentos em consumo de APIs REST, manipulação de arquivos JSON, l�
 - **Versionamento de Código**: Git, GitHub 🌱
 - **Outros Conceitos**: Responsividade, Design e usabilidade de sites (UI/UX) 🎨
 
-## Linguagens Mais Usadas e Estatísticas no GitHub
+<h2  align="center">Linguagens Mais Usadas e Estatísticas no GitHub</h2>
 <p align="center"><img  height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iranlsjr&layout=compact&theme=radical" /> <img height="190px" src="https://github-readme-stats.vercel.app/api?username=Iranlsjr&show_icons=true&theme=radical" /></p>
 
 
-## Projetos Iniciais
+<h2  align="center">Projetos Iniciais</h2>
 Embora esteja no começo dessa jornada, já estou aplicando o que estou aprendendo em alguns projetos pessoais. Aqui estão alguns dos meus primeiros passos:
 
 - **[Meu Site Pessoal](https://iranlsjr.github.io/portfolio/)**: O primeiro projeto em que estou trabalhando para apresentar minhas habilidades e projetos em andamento.
 
 
-## Como Contribuir e Contatar
+<h2  align="center">Como Contribuir e Contatar</h2>
 
 Para qualquer feedback é super bem-vindo! Se você tem dicas, sugestões ou quer trocar experiências, fico feliz em aprender com você.
 
