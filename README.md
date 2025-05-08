@@ -15,17 +15,17 @@ Atualmente, estou focado no **desenvolvimento web**, mas continuo aprendendo sob
 - **Banco de Dados**: MySQL 📂
 - **Versionamento de Código**: Git, GitHub 🌱
 - **Outros Conceitos**: Responsividade, Design e usabilidade de sites (UI/UX) 🎨
+
+
 <table>
   <tr>
     <td>
       <h2>📌 Linguagens Mais Usadas</h2>
-      <p>Aqui estão algumas das linguagens mais utilizadas até o momento.</p>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iranlsjr&langs_count=6&theme=radical" />
     </td>
     <td>
       <h2>📊 Estatísticas no GitHub</h2>
-      <p>Aqui estão algumas estatísticas e informações sobre minha atividade no GitHub:</p>
-      <img src="https://github-readme-stats.vercel.app/api?username=Iranlsjr&show_icons=true&count_private=true&hide_title=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Iranlsjr&show_icons=true&theme=radical" />
     </td>
   </tr>
 </table>
