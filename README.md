@@ -18,7 +18,7 @@ Possuo conhecimentos em consumo de APIs REST, manipulação de arquivos JSON, l�
 - **Versionamento de Código**: Git, GitHub 🌱
 - **Outros Conceitos**: Responsividade, Design e usabilidade de sites (UI/UX) 🎨
 
-<h2  align="center">Linguagens Mais Usadas e Estatísticas no GitHub</h2>
+<h2  align="center">Linguagens Mais Usadas e Estatísticas</h2>
 <p align="center"><img  height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iranlsjr&layout=compact&theme=radical" /> <img height="190px" src="https://github-readme-stats.vercel.app/api?username=Iranlsjr&show_icons=true&theme=radical" /></p>
 
 
