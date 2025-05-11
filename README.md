@@ -14,7 +14,7 @@ Possuo conhecimentos em consumo de APIs REST, manipulação de arquivos JSON, l�
 
 - **Front-End**: HTML5, CSS3, Bootstrap JavaScript, Angular 🖥️
 - **Back-End**:  PHP e Python 🐍
-- **Mobile**:  Flutter 
+- **Mobile Developer**:  Flutter 
 - **Banco de Dados**: MySQL 📂
 - **Versionamento de Código**: Git, GitHub 🌱
 - **Outros Conceitos**: Responsividade, Design e usabilidade de sites (UI/UX) 🎨
