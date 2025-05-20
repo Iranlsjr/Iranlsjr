@@ -1,6 +1,6 @@
 <h1  align="center">Olá! Me chamo Iran Lourenço 👨‍💻</h1>
 
-<h2  align="center">Developer | MySQL | HTML 5 | CSS | Bootstrap | Angular | JavaScript | PHP | Python</h2>
+<h2  align="center">Developer | MySQL | HTML 5 | CSS | Bootstrap | Angular | JavaScript | PHP | Python | Flutter</h2>
 
 Sou profissional em transição para a área de tecnologia, com formação em Arquitetura e Urbanismo e experiência anterior em Engenharia de Avaliações, onde atuei com métodos estatísticos e análise de dados no setor imobiliário.
 
