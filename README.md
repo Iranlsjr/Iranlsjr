@@ -12,7 +12,7 @@ Possuo conhecimentos em consumo de APIs REST, manipulação de arquivos JSON, l�
 
 <h2  align="center">My Stack</h2>
 
-- **Front-End**: HTML5, CSS3, Bootstrap JavaScript, Angular 🖥️
+- **Front-End**: JavaScript, Angular 🖥️
 - **Back-End**:  PHP e Python 🐍
 - **Mobile Developer**:  Flutter 
 - **Banco de Dados**: MySQL 📂
