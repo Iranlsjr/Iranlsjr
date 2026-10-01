@@ -4,7 +4,7 @@ Soy profesional en transición hacia el sector tecnológico, con formación en A
 
 Actualmente, estoy estudiando ASIR (Administración de Sistemas Informáticos en Red) y enfocando mi desarrollo profesional en el área de tecnología, combinando mis conocimientos de programación con la administración de sistemas, redes y bases de datos.
 
-Tengo experiencia con HTML, CSS, JavaScript, PHP, Python, Angular y MySQL, además de conocimientos en consumo de APIs REST, manipulación de archivos JSON, lógica de programación y control de versiones con Git y GitHub.
+Tengo experiencia con HTML, CSS, JavaScript, PHP, Python, Angular y MySQL, además de conocimientos en manipulación de archivos JSON, y control de versiones con Git y GitHub.
 
 Durante mi experiencia como becario, participé en el desarrollo y mantenimiento de sistemas, contribuyendo a la optimización de aplicaciones web y bases de datos.
 
